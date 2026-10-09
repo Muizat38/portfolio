@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(201, 151, 151);
@@ -56,4 +57,64 @@ a:hover{
 .header{
     display: flex;
     align-items: center;
+=======
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(201, 151, 151);
+    margin: 90px;
+    width: 70%;
+}
+h1{
+    text-align: left;
+    color:  black;
+    font-size: 50px;
+    margin-bottom: 5px;
+    margin-top: auto;
+    font-size: bold;
+}
+h2{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+h3{
+    color: black;
+}
+p{
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.6;
+}
+img{
+    width: 200px;
+    margin-top: 3px;
+    border-radius: 15px;
+    
+}
+.muizat{
+    width: 3000px;
+    display: block;
+    margin-top: auto;
+
+}
+h4{
+    color: black;
+    text-align: left;
+    font-size: bold;
+}
+a{
+    display: block;
+    margin: 15px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color: blue;
+}
+.header{
+    display: flex;
+    align-items: center;
+>>>>>>> 02b9989 (Initial commit)
 }
